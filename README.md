@@ -42,7 +42,6 @@ Then, open the simulator and set screen resolution to  "640x480" and graphics qu
 This project requires [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit). The environment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
 ### Get the Code
-- Download this folder of code [here](https://tugan0329.bitbucket.io/downloads/udacity/car/behavioral-cloning/p3-behavioral-cloning.zip)
 - Download the Simulator for your environment:
     - [Linux](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58ae46bb_linux-sim/linux-sim.zip)
     - [macOS](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58ae4594_mac-sim.app/mac-sim.app.zip)
